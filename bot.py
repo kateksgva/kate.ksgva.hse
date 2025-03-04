@@ -12,7 +12,7 @@ import numpy as np
 import asyncio
 import sys
 
-API_TOKEN = "7768784827:AAFAzx5WGrc923ZVDt71y7YJbrMAV8NwPhk"
+API_TOKEN = "token"
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
